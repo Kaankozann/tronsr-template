@@ -1,7 +1,7 @@
 Google Cloud Virtual machine
 
 
-Minimum specs for testing
+Minimum specs for testing time
 
 Node piece: 1
 
