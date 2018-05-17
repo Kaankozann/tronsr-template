@@ -1,3 +1,5 @@
-A short introduction about your team<br>
-My name is Kaan KOZAN<br>
-I'm 30 years ol
+A short introduction about your team
+
+My name is Kaan KOZAN
+
+I'm 30 years old
