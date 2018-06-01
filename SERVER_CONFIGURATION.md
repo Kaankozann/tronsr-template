@@ -11,7 +11,7 @@ CPU platformu: Intel Haswell
 
 Area: us-east1-b
 
-Hdd: 10Gb
+Hdd: 100Gb
 
 Ip: 35.237.115.106
 
