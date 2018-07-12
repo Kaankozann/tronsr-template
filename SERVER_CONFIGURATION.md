@@ -1,7 +1,7 @@
 Google Cloud Virtual machine
 
 
-Minimum specs for testing time
+Specs
 
 Node piece: 1
 
@@ -11,7 +11,7 @@ CPU platformu: Intel Haswell
 
 Area: us-east1-b
 
-Hdd: 100Gb
+Hdd: 10TB
 
 Ip: 35.237.115.106
 
