@@ -1,5 +1,5 @@
 100% commissions will be sent to anyone who votes
 
-For statistics and for immediate withdrawal => http://35.237.94.227/index.php
+For statistics and withdraw => http://bit.do/KaanKOZAN
 
 Auto withdraw max 30 day.
