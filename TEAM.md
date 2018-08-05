@@ -1,6 +1,6 @@
 ## Founder
 
-Name: [Kaan KOZAN]
+Name: [Kaan KOZAN](https://tronscan.org/#/address/TCmubWCoL7cLA2VDkVn4WGWCT7nqcFavXX)
 Role: [Founder]
 
 
