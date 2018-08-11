@@ -2,4 +2,6 @@
 
 For statistics and withdraw => http://bit.do/KaanKOZAN
 
-Auto withdraw max 30 day.
+Auto withdraw max 14 day.
+
+you can request a withdrawal every day
