@@ -1,6 +1,6 @@
 
 
-for each r
+
 
 
 
